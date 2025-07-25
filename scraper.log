@@ -1,0 +1,748 @@
+2025-05-25 12:43:04,506 - INFO - Connected to Google Sheet successfully
+2025-05-25 12:43:04,507 - INFO - Running initial scrape for testing...
+2025-05-25 12:43:04,507 - INFO - ====== WebDriver manager ======
+2025-05-25 12:43:04,508 - INFO - ====== WebDriver manager ======
+2025-05-25 12:43:04,508 - INFO - ====== WebDriver manager ======
+2025-05-25 12:43:04,509 - INFO - ====== WebDriver manager ======
+2025-05-25 12:43:09,217 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:09,458 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:09,643 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:09,795 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:09,913 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:43:09,989 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:43:09,994 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:10,216 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:10,387 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:10,435 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:43:10,586 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:10,784 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:43:12,165 - INFO - Opened https://bjdoffice1.com/page/manager/dashboard.jsp with user bjdmon02
+2025-05-25 12:43:12,211 - INFO - Opened https://dpoffice1.com/page/manager/dashboard.jsp with user dpvinai
+2025-05-25 12:43:12,281 - INFO - Entered username for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:12,316 - INFO - Entered username for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:12,412 - INFO - Entered password for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:12,449 - INFO - Entered password for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:12,632 - INFO - Clicked login button for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:12,657 - INFO - Clicked login button for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:13,698 - INFO - Opened https://www.jeetfun.com/page/manager/login.jsp with user cxdavith
+2025-05-25 12:43:13,839 - INFO - Entered username for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:43:13,876 - INFO - Extracted data from https://dpoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:43:14,016 - INFO - Entered password for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:43:14,317 - INFO - Opened https://hboffice1.com/page/manager/dashboard.jsp with user hbmon04
+2025-05-25 12:43:14,524 - INFO - Entered username for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:14,600 - INFO - Clicked login button for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:43:14,614 - INFO - Extracted data from https://bjdoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:43:14,727 - INFO - Entered password for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:14,954 - INFO - Clicked login button for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:15,953 - INFO - Currency options for https://www.jeetfun.com/page/manager/login.jsp: ['INR', 'BDT', 'PKR', 'USD', 'NPR', 'LKR', 'AED']
+2025-05-25 12:43:16,071 - INFO - Selected currency: BDT for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:43:16,184 - INFO - Extracted data from https://www.jeetfun.com/page/manager/login.jsp: B=, C=
+2025-05-25 12:43:16,524 - INFO - Closed browser for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:16,524 - INFO - ====== WebDriver manager ======
+2025-05-25 12:43:17,000 - INFO - Extracted data from https://hboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:43:17,253 - INFO - Closed browser for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:17,253 - INFO - ====== WebDriver manager ======
+2025-05-25 12:43:19,391 - INFO - Closed browser for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:19,391 - INFO - ====== WebDriver manager ======
+2025-05-25 12:43:20,719 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:21,141 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:21,395 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:43:21,656 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:21,850 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:22,075 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:43:23,221 - INFO - Opened https://jboffice1.com/page/manager/dashboard.jsp with user jbdavith
+2025-05-25 12:43:23,284 - INFO - Entered username for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:23,365 - INFO - Entered password for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:23,476 - INFO - Clicked login button for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:23,854 - INFO - Opened https://jwoffice1.com/page/manager/dashboard.jsp with user jwdvit
+2025-05-25 12:43:23,910 - INFO - Entered username for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:23,980 - INFO - Entered password for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:24,075 - INFO - Clicked login button for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:24,384 - INFO - Extracted data from https://jboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:43:24,946 - INFO - Currency options for https://jwoffice1.com/page/manager/dashboard.jsp: ['INR', 'BDT', 'PKR']
+2025-05-25 12:43:25,030 - INFO - Selected currency: BDT for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:25,099 - INFO - Extracted data from https://jwoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:43:25,935 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:26,121 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:26,309 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:43:26,459 - WARNING - CSS selector failed for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:43:26,648 - INFO - Closed browser for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:26,648 - INFO - ====== WebDriver manager ======
+2025-05-25 12:43:28,144 - INFO - Opened https://kvoffice1.com/page/manager/dashboard.jsp with user kvtzy1
+2025-05-25 12:43:28,209 - INFO - Entered username for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:28,285 - INFO - Entered password for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:28,398 - INFO - Clicked login button for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:28,677 - INFO - Closed browser for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:43:28,677 - INFO - ====== WebDriver manager ======
+2025-05-25 12:43:29,250 - INFO - Extracted data from https://kvoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:43:29,622 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:29,815 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:30,002 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:43:31,572 - INFO - Closed browser for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:31,572 - INFO - ====== WebDriver manager ======
+2025-05-25 12:43:31,846 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:31,922 - INFO - Opened https://mpback1.com/page/manager/login.jsp with user mpvinai
+2025-05-25 12:43:31,977 - INFO - Entered username for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:43:32,021 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:32,053 - INFO - Entered password for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:43:32,165 - INFO - Clicked login button for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:43:32,183 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:43:34,146 - INFO - Currency options for https://mpback1.com/page/manager/login.jsp: ['INR', 'BDT', 'PKR', 'NPR']
+2025-05-25 12:43:34,188 - INFO - Opened https://marvelback.com/page/manager/dashboard.jsp with user vprmon01
+2025-05-25 12:43:34,223 - INFO - Selected currency: BDT for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:43:34,249 - INFO - Entered username for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:43:34,292 - INFO - Extracted data from https://mpback1.com/page/manager/login.jsp: B=, C=
+2025-05-25 12:43:34,361 - INFO - Entered password for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:43:34,532 - INFO - Clicked login button for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:43:34,942 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:35,268 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:35,339 - WARNING - CSS selector failed for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:35,432 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:43:35,827 - INFO - Currency options for https://marvelback.com/page/manager/dashboard.jsp: ['VND', 'INR', 'BDT', 'PHP', 'NPR', 'PKR']
+2025-05-25 12:43:35,926 - INFO - Selected currency: BDT for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:43:36,000 - INFO - Extracted data from https://marvelback.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:43:37,576 - INFO - Opened https://sboffice1.com/page/manager/dashboard.jsp with user sbmon03
+2025-05-25 12:43:37,640 - INFO - Entered username for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:37,712 - INFO - Entered password for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:37,809 - INFO - Clicked login button for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:38,762 - INFO - Extracted data from https://sboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:43:39,486 - INFO - Closed browser for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:39,486 - INFO - ====== WebDriver manager ======
+2025-05-25 12:43:40,952 - INFO - Closed browser for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:41,316 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:41,520 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:43:41,807 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:43:43,748 - INFO - Opened https://sbajioffice1.com/page/manager/dashboard.jsp with user slbmon02
+2025-05-25 12:43:43,796 - INFO - Entered username for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:43,849 - INFO - Entered password for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:43,914 - INFO - Clicked login button for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:44,510 - WARNING - CSS selector failed for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:43:44,856 - INFO - Extracted data from https://sbajioffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:43:46,190 - WARNING - CSS selector failed for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:43:46,797 - INFO - Closed browser for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:43:47,029 - INFO - Closed browser for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:43:48,385 - INFO - Closed browser for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:43:48,902 - INFO - Data written to Google Sheet: [['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', '']]
+2025-05-25 12:43:48,903 - INFO - Starting scheduler...
+2025-05-25 12:44:18,919 - INFO - ====== WebDriver manager ======
+2025-05-25 12:44:18,920 - INFO - ====== WebDriver manager ======
+2025-05-25 12:44:18,921 - INFO - ====== WebDriver manager ======
+2025-05-25 12:44:18,922 - INFO - ====== WebDriver manager ======
+2025-05-25 12:44:21,343 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:21,541 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:21,578 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:21,719 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:44:21,734 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:21,904 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:21,926 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:44:22,054 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:22,091 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:22,207 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:22,253 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:44:22,403 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:44:23,567 - INFO - Opened https://bjdoffice1.com/page/manager/dashboard.jsp with user bjdmon02
+2025-05-25 12:44:23,634 - INFO - Entered username for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:23,678 - INFO - Opened https://www.jeetfun.com/page/manager/login.jsp with user cxdavith
+2025-05-25 12:44:23,719 - INFO - Entered password for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:23,748 - INFO - Entered username for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:44:23,842 - INFO - Entered password for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:44:23,849 - INFO - Clicked login button for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:23,982 - INFO - Clicked login button for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:44:24,061 - INFO - Opened https://dpoffice1.com/page/manager/dashboard.jsp with user dpvinai
+2025-05-25 12:44:24,126 - INFO - Entered username for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:24,217 - INFO - Entered password for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:24,362 - INFO - Clicked login button for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:24,413 - INFO - Opened https://hboffice1.com/page/manager/dashboard.jsp with user hbmon04
+2025-05-25 12:44:24,486 - INFO - Entered username for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:24,600 - INFO - Entered password for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:24,775 - INFO - Clicked login button for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:25,086 - INFO - Extracted data from https://bjdoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:44:25,488 - INFO - Currency options for https://www.jeetfun.com/page/manager/login.jsp: ['INR', 'BDT', 'PKR', 'USD', 'NPR', 'LKR', 'AED']
+2025-05-25 12:44:25,584 - INFO - Extracted data from https://dpoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:44:25,590 - INFO - Selected currency: BDT for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:44:25,688 - INFO - Extracted data from https://www.jeetfun.com/page/manager/login.jsp: B=, C=
+2025-05-25 12:44:26,224 - INFO - Extracted data from https://hboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:44:27,443 - INFO - Closed browser for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:27,444 - INFO - ====== WebDriver manager ======
+2025-05-25 12:44:27,848 - INFO - Closed browser for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:27,848 - INFO - ====== WebDriver manager ======
+2025-05-25 12:44:28,446 - INFO - Closed browser for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:28,447 - INFO - ====== WebDriver manager ======
+2025-05-25 12:44:30,837 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:31,038 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:31,198 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:44:31,558 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:31,749 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:31,908 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:44:33,115 - INFO - Opened https://jboffice1.com/page/manager/dashboard.jsp with user jbdavith
+2025-05-25 12:44:33,194 - INFO - Entered username for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:33,318 - INFO - Entered password for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:33,464 - INFO - Clicked login button for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:33,928 - INFO - Opened https://jwoffice1.com/page/manager/dashboard.jsp with user jwdvit
+2025-05-25 12:44:34,000 - INFO - Entered username for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:34,092 - INFO - Entered password for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:34,225 - INFO - Clicked login button for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:34,874 - INFO - Extracted data from https://jboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:44:35,653 - INFO - Currency options for https://jwoffice1.com/page/manager/dashboard.jsp: ['INR', 'BDT', 'PKR']
+2025-05-25 12:44:35,754 - INFO - Selected currency: BDT for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:35,829 - INFO - Extracted data from https://jwoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:44:35,947 - WARNING - CSS selector failed for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:44:36,513 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:36,695 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:36,910 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:44:37,329 - INFO - Closed browser for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:37,329 - INFO - ====== WebDriver manager ======
+2025-05-25 12:44:38,436 - INFO - Closed browser for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:44:38,436 - INFO - ====== WebDriver manager ======
+2025-05-25 12:44:39,118 - INFO - Opened https://kvoffice1.com/page/manager/dashboard.jsp with user kvtzy1
+2025-05-25 12:44:39,232 - INFO - Entered username for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:39,402 - INFO - Entered password for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:39,645 - INFO - Clicked login button for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:40,615 - INFO - Extracted data from https://kvoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:44:42,231 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:42,456 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:42,639 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:44:42,975 - INFO - Closed browser for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:42,976 - INFO - ====== WebDriver manager ======
+2025-05-25 12:44:44,917 - INFO - Opened https://mpback1.com/page/manager/login.jsp with user mpvinai
+2025-05-25 12:44:45,033 - INFO - Entered username for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:44:45,153 - INFO - Entered password for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:44:45,309 - INFO - Clicked login button for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:44:46,248 - WARNING - CSS selector failed for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:46,689 - INFO - Currency options for https://mpback1.com/page/manager/login.jsp: ['INR', 'BDT', 'PKR', 'NPR']
+2025-05-25 12:44:46,781 - INFO - Selected currency: BDT for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:44:46,888 - INFO - Extracted data from https://mpback1.com/page/manager/login.jsp: B=, C=
+2025-05-25 12:44:47,256 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:47,435 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:47,622 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:44:48,722 - INFO - Closed browser for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:48,723 - INFO - ====== WebDriver manager ======
+2025-05-25 12:44:49,577 - INFO - Opened https://sboffice1.com/page/manager/dashboard.jsp with user sbmon03
+2025-05-25 12:44:49,657 - INFO - Entered username for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:49,747 - INFO - Entered password for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:49,884 - INFO - Clicked login button for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:50,861 - INFO - Extracted data from https://sboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:44:52,287 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:52,475 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:52,632 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:44:54,234 - INFO - Closed browser for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:54,477 - INFO - Opened https://sbajioffice1.com/page/manager/dashboard.jsp with user slbmon02
+2025-05-25 12:44:54,546 - INFO - Entered username for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:54,641 - INFO - Entered password for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:54,744 - INFO - Clicked login button for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:44:57,206 - WARNING - CSS selector failed for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:44:57,397 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:57,555 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:44:57,631 - INFO - Extracted data from https://sbajioffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:44:57,745 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:44:59,418 - INFO - Closed browser for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:44:59,434 - INFO - Opened https://marvelback.com/page/manager/dashboard.jsp with user vprmon01
+2025-05-25 12:44:59,477 - INFO - Entered username for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:44:59,529 - INFO - Entered password for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:44:59,605 - INFO - Clicked login button for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:44:59,785 - INFO - Closed browser for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:00,353 - INFO - Currency options for https://marvelback.com/page/manager/dashboard.jsp: ['VND', 'INR', 'BDT', 'PHP', 'NPR', 'PKR']
+2025-05-25 12:45:00,411 - INFO - Selected currency: BDT for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:45:00,452 - INFO - Extracted data from https://marvelback.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:45:10,638 - WARNING - CSS selector failed for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:45:12,793 - INFO - Closed browser for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:45:13,216 - INFO - Data written to Google Sheet: [['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', '']]
+2025-05-25 12:45:43,235 - INFO - ====== WebDriver manager ======
+2025-05-25 12:45:43,236 - INFO - ====== WebDriver manager ======
+2025-05-25 12:45:43,237 - INFO - ====== WebDriver manager ======
+2025-05-25 12:45:43,238 - INFO - ====== WebDriver manager ======
+2025-05-25 12:45:45,810 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:45:45,989 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:45:46,043 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:45:46,165 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:45:46,203 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:45:46,234 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:45:46,394 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:45:46,419 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:45:46,542 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:45:46,599 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:45:46,719 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:45:46,900 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:45:48,092 - INFO - Opened https://www.jeetfun.com/page/manager/login.jsp with user cxdavith
+2025-05-25 12:45:48,223 - INFO - Entered username for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:45:48,229 - INFO - Opened https://bjdoffice1.com/page/manager/dashboard.jsp with user bjdmon02
+2025-05-25 12:45:48,336 - INFO - Entered username for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:48,363 - INFO - Entered password for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:45:48,447 - INFO - Entered password for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:48,505 - INFO - Clicked login button for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:45:48,579 - INFO - Clicked login button for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:48,580 - INFO - Opened https://hboffice1.com/page/manager/dashboard.jsp with user hbmon04
+2025-05-25 12:45:48,656 - INFO - Entered username for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:48,735 - INFO - Entered password for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:48,876 - INFO - Clicked login button for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:49,023 - INFO - Opened https://dpoffice1.com/page/manager/dashboard.jsp with user dpvinai
+2025-05-25 12:45:49,117 - INFO - Entered username for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:49,231 - INFO - Entered password for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:49,412 - INFO - Clicked login button for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:49,503 - INFO - Currency options for https://www.jeetfun.com/page/manager/login.jsp: ['INR', 'BDT', 'PKR', 'USD', 'NPR', 'LKR', 'AED']
+2025-05-25 12:45:49,544 - INFO - Extracted data from https://bjdoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:45:49,624 - INFO - Selected currency: BDT for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:45:49,706 - INFO - Extracted data from https://www.jeetfun.com/page/manager/login.jsp: B=, C=
+2025-05-25 12:45:49,854 - INFO - Extracted data from https://hboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:45:50,330 - INFO - Extracted data from https://dpoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:45:51,959 - INFO - Closed browser for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:51,959 - INFO - ====== WebDriver manager ======
+2025-05-25 12:45:52,190 - INFO - Closed browser for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:52,190 - INFO - ====== WebDriver manager ======
+2025-05-25 12:45:52,558 - INFO - Closed browser for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:52,559 - INFO - ====== WebDriver manager ======
+2025-05-25 12:45:54,709 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:45:54,875 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:45:55,057 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:45:55,190 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:45:55,369 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:45:55,558 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:45:56,870 - INFO - Opened https://jboffice1.com/page/manager/dashboard.jsp with user jbdavith
+2025-05-25 12:45:56,915 - INFO - Entered username for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:56,973 - INFO - Entered password for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:57,041 - INFO - Clicked login button for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:57,314 - INFO - Opened https://jwoffice1.com/page/manager/dashboard.jsp with user jwdvit
+2025-05-25 12:45:57,355 - INFO - Entered username for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:57,412 - INFO - Entered password for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:57,484 - INFO - Clicked login button for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:57,826 - INFO - Extracted data from https://jboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:45:58,577 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:45:58,967 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:45:58,987 - INFO - Currency options for https://jwoffice1.com/page/manager/dashboard.jsp: ['INR', 'BDT', 'PKR']
+2025-05-25 12:45:59,033 - INFO - Selected currency: BDT for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:45:59,076 - INFO - Extracted data from https://jwoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:45:59,425 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:45:59,912 - WARNING - CSS selector failed for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:46:00,021 - INFO - Closed browser for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:46:00,021 - INFO - ====== WebDriver manager ======
+2025-05-25 12:46:01,187 - INFO - Opened https://kvoffice1.com/page/manager/dashboard.jsp with user kvtzy1
+2025-05-25 12:46:01,236 - INFO - Entered username for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:46:01,308 - INFO - Entered password for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:46:01,406 - INFO - Clicked login button for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:46:02,125 - INFO - Closed browser for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:46:02,126 - INFO - ====== WebDriver manager ======
+2025-05-25 12:46:02,162 - INFO - Extracted data from https://kvoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:46:02,376 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:46:02,557 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:46:03,284 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:46:04,385 - INFO - Closed browser for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:46:04,385 - INFO - ====== WebDriver manager ======
+2025-05-25 12:46:04,482 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:46:04,670 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:46:04,830 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:46:05,062 - INFO - Opened https://mpback1.com/page/manager/login.jsp with user mpvinai
+2025-05-25 12:46:05,106 - INFO - Entered username for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:46:05,158 - INFO - Entered password for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:46:05,238 - INFO - Clicked login button for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:46:06,187 - INFO - Currency options for https://mpback1.com/page/manager/login.jsp: ['INR', 'BDT', 'PKR', 'NPR']
+2025-05-25 12:46:06,267 - INFO - Selected currency: BDT for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:46:06,322 - INFO - Extracted data from https://mpback1.com/page/manager/login.jsp: B=, C=
+2025-05-25 12:46:06,619 - INFO - Opened https://marvelback.com/page/manager/dashboard.jsp with user vprmon01
+2025-05-25 12:46:06,675 - INFO - Entered username for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:46:06,767 - INFO - Entered password for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:46:06,875 - INFO - Clicked login button for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:46:06,956 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:46:07,116 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:46:07,243 - WARNING - CSS selector failed for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:46:08,039 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:46:08,358 - INFO - Currency options for https://marvelback.com/page/manager/dashboard.jsp: ['VND', 'INR', 'BDT', 'PHP', 'NPR', 'PKR']
+2025-05-25 12:46:08,405 - INFO - Selected currency: BDT for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:46:08,466 - INFO - Extracted data from https://marvelback.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:46:09,757 - INFO - Opened https://sboffice1.com/page/manager/dashboard.jsp with user sbmon03
+2025-05-25 12:46:09,789 - INFO - Entered username for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:46:09,830 - INFO - Entered password for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:46:09,883 - INFO - Clicked login button for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:46:11,077 - INFO - Closed browser for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:46:11,077 - INFO - ====== WebDriver manager ======
+2025-05-25 12:46:11,490 - INFO - Extracted data from https://sboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:46:12,931 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:46:13,123 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:46:13,305 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:46:13,651 - INFO - Closed browser for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:46:14,985 - INFO - Opened https://sbajioffice1.com/page/manager/dashboard.jsp with user slbmon02
+2025-05-25 12:46:15,026 - INFO - Entered username for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:46:15,082 - INFO - Entered password for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:46:15,141 - INFO - Clicked login button for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:46:16,486 - WARNING - CSS selector failed for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:46:17,261 - INFO - Extracted data from https://sbajioffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:46:18,645 - WARNING - CSS selector failed for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:46:18,701 - INFO - Closed browser for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:46:19,440 - INFO - Closed browser for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:46:20,851 - INFO - Closed browser for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:46:21,420 - INFO - Data written to Google Sheet: [['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', '']]
+2025-05-25 12:55:56,194 - INFO - Connected to Google Sheet successfully
+2025-05-25 12:55:56,195 - INFO - Running initial scrape for testing...
+2025-05-25 12:55:56,195 - INFO - ====== WebDriver manager ======
+2025-05-25 12:55:56,195 - INFO - ====== WebDriver manager ======
+2025-05-25 12:55:56,196 - INFO - ====== WebDriver manager ======
+2025-05-25 12:55:56,196 - INFO - ====== WebDriver manager ======
+2025-05-25 12:56:00,618 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:00,810 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:00,966 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:56:00,975 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:01,118 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:01,234 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:56:02,034 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:02,156 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:02,291 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:56:04,096 - INFO - Opened https://www.jeetfun.com/page/manager/login.jsp with user cxdavith
+2025-05-25 12:56:04,110 - INFO - Opened https://bjdoffice1.com/page/manager/dashboard.jsp with user bjdmon02
+2025-05-25 12:56:04,235 - INFO - Entered username for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:56:04,251 - INFO - Entered username for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:04,420 - INFO - Entered password for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:56:04,422 - INFO - Entered password for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:04,633 - INFO - Clicked login button for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:56:04,634 - INFO - Clicked login button for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:06,293 - INFO - Opened https://dpoffice1.com/page/manager/dashboard.jsp with user dpvinai
+2025-05-25 12:56:06,421 - INFO - Entered username for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:06,591 - INFO - Entered password for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:06,819 - INFO - Clicked login button for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:07,303 - INFO - Extracted data from https://bjdoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:56:07,791 - INFO - Currency options for https://www.jeetfun.com/page/manager/login.jsp: ['INR', 'BDT', 'PKR', 'USD', 'NPR', 'LKR', 'AED']
+2025-05-25 12:56:07,977 - INFO - Selected currency: BDT for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:56:08,099 - INFO - Extracted data from https://dpoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:56:08,123 - INFO - Extracted data from https://www.jeetfun.com/page/manager/login.jsp: B=, C=
+2025-05-25 12:56:10,908 - INFO - Closed browser for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:10,908 - INFO - ====== WebDriver manager ======
+2025-05-25 12:56:11,262 - INFO - Closed browser for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:11,263 - INFO - ====== WebDriver manager ======
+2025-05-25 12:56:15,973 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:16,105 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:16,229 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:56:16,547 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:16,688 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:16,800 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:56:18,092 - INFO - Opened https://jboffice1.com/page/manager/dashboard.jsp with user jbdavith
+2025-05-25 12:56:18,153 - INFO - Entered username for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:18,228 - INFO - Entered password for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:18,319 - INFO - Clicked login button for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:18,590 - WARNING - CSS selector failed for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:56:18,827 - INFO - Opened https://jwoffice1.com/page/manager/dashboard.jsp with user jwdvit
+2025-05-25 12:56:18,881 - INFO - Entered username for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:18,895 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:18,950 - INFO - Entered password for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:19,021 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:19,049 - INFO - Clicked login button for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:19,100 - INFO - Extracted data from https://jboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:56:19,150 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:56:20,086 - INFO - Currency options for https://jwoffice1.com/page/manager/dashboard.jsp: ['INR', 'BDT', 'PKR']
+2025-05-25 12:56:20,183 - INFO - Selected currency: BDT for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:20,238 - INFO - Extracted data from https://jwoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:56:20,903 - INFO - Closed browser for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:56:20,904 - INFO - ====== WebDriver manager ======
+2025-05-25 12:56:21,011 - INFO - Opened https://hboffice1.com/page/manager/dashboard.jsp with user hbmon04
+2025-05-25 12:56:21,055 - INFO - Entered username for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:21,116 - INFO - Entered password for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:21,195 - INFO - Clicked login button for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:21,317 - INFO - Closed browser for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:21,317 - INFO - ====== WebDriver manager ======
+2025-05-25 12:56:21,942 - INFO - Extracted data from https://hboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:56:23,789 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:23,909 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:24,036 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:56:24,197 - INFO - Closed browser for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:24,197 - INFO - ====== WebDriver manager ======
+2025-05-25 12:56:24,558 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:24,672 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:24,783 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:56:26,780 - INFO - Opened https://kvoffice1.com/page/manager/dashboard.jsp with user kvtzy1
+2025-05-25 12:56:26,891 - INFO - Entered username for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:27,045 - INFO - Entered password for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:27,229 - INFO - Clicked login button for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:27,232 - INFO - Opened https://mpback1.com/page/manager/login.jsp with user mpvinai
+2025-05-25 12:56:27,352 - INFO - Entered username for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:56:27,517 - INFO - Entered password for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:56:27,733 - INFO - Clicked login button for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:56:28,217 - INFO - Extracted data from https://kvoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:56:29,247 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:29,286 - INFO - Currency options for https://mpback1.com/page/manager/login.jsp: ['INR', 'BDT', 'PKR', 'NPR']
+2025-05-25 12:56:29,367 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:29,474 - INFO - Selected currency: BDT for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:56:29,514 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:56:29,587 - INFO - Extracted data from https://mpback1.com/page/manager/login.jsp: B=, C=
+2025-05-25 12:56:30,674 - WARNING - CSS selector failed for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:31,604 - INFO - Opened https://marvelback.com/page/manager/dashboard.jsp with user vprmon01
+2025-05-25 12:56:31,672 - INFO - Entered username for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:56:31,753 - INFO - Entered password for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:56:31,830 - INFO - Closed browser for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:31,830 - INFO - ====== WebDriver manager ======
+2025-05-25 12:56:31,872 - INFO - Clicked login button for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:56:32,972 - INFO - Currency options for https://marvelback.com/page/manager/dashboard.jsp: ['VND', 'INR', 'BDT', 'PHP', 'NPR', 'PKR']
+2025-05-25 12:56:33,053 - INFO - Selected currency: BDT for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:56:33,118 - INFO - Extracted data from https://marvelback.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:56:33,264 - INFO - Closed browser for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:33,265 - INFO - ====== WebDriver manager ======
+2025-05-25 12:56:35,614 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:35,741 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:35,850 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:56:36,549 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:36,660 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:56:36,785 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:56:37,629 - INFO - Opened https://sboffice1.com/page/manager/dashboard.jsp with user sbmon03
+2025-05-25 12:56:37,696 - INFO - Entered username for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:37,783 - INFO - Entered password for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:37,895 - INFO - Clicked login button for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:38,589 - INFO - Opened https://sbajioffice1.com/page/manager/dashboard.jsp with user slbmon02
+2025-05-25 12:56:38,639 - INFO - Entered username for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:38,696 - INFO - Entered password for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:38,788 - INFO - Clicked login button for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:38,834 - INFO - Extracted data from https://sboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:56:39,550 - INFO - Extracted data from https://sbajioffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:56:39,890 - WARNING - CSS selector failed for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:56:41,022 - INFO - Closed browser for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:41,750 - INFO - Closed browser for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:56:42,077 - INFO - Closed browser for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:56:43,337 - WARNING - CSS selector failed for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:56:45,512 - INFO - Closed browser for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:56:46,856 - INFO - Data written to Google Sheet: [['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', '']]
+2025-05-25 12:56:46,856 - INFO - Starting scheduler...
+2025-05-25 12:57:16,869 - INFO - ====== WebDriver manager ======
+2025-05-25 12:57:16,870 - INFO - ====== WebDriver manager ======
+2025-05-25 12:57:16,870 - INFO - ====== WebDriver manager ======
+2025-05-25 12:57:16,872 - INFO - ====== WebDriver manager ======
+2025-05-25 12:57:19,971 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:20,117 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:20,234 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:57:20,392 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:20,523 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:20,526 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:20,633 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:20,655 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:57:20,763 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:57:21,001 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:21,110 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:21,240 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:57:22,259 - INFO - Opened https://bjdoffice1.com/page/manager/dashboard.jsp with user bjdmon02
+2025-05-25 12:57:22,388 - INFO - Entered username for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:22,542 - INFO - Entered password for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:22,760 - INFO - Clicked login button for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:22,967 - INFO - Opened https://dpoffice1.com/page/manager/dashboard.jsp with user dpvinai
+2025-05-25 12:57:23,000 - INFO - Opened https://www.jeetfun.com/page/manager/login.jsp with user cxdavith
+2025-05-25 12:57:23,210 - INFO - Entered username for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:23,225 - INFO - Entered username for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:57:23,401 - INFO - Entered password for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:23,431 - INFO - Entered password for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:57:23,636 - INFO - Clicked login button for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:23,658 - INFO - Clicked login button for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:57:23,859 - INFO - Extracted data from https://bjdoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:57:23,981 - INFO - Opened https://hboffice1.com/page/manager/dashboard.jsp with user hbmon04
+2025-05-25 12:57:24,091 - INFO - Entered username for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:24,256 - INFO - Entered password for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:24,448 - INFO - Clicked login button for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:24,747 - INFO - Extracted data from https://dpoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:57:24,795 - INFO - Currency options for https://www.jeetfun.com/page/manager/login.jsp: ['INR', 'BDT', 'PKR', 'USD', 'NPR', 'LKR', 'AED']
+2025-05-25 12:57:24,924 - INFO - Selected currency: BDT for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:57:25,017 - INFO - Extracted data from https://www.jeetfun.com/page/manager/login.jsp: B=, C=
+2025-05-25 12:57:25,370 - INFO - Extracted data from https://hboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:57:26,404 - INFO - Closed browser for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:26,404 - INFO - ====== WebDriver manager ======
+2025-05-25 12:57:27,167 - INFO - Closed browser for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:27,167 - INFO - ====== WebDriver manager ======
+2025-05-25 12:57:27,737 - INFO - Closed browser for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:27,737 - INFO - ====== WebDriver manager ======
+2025-05-25 12:57:30,535 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:30,649 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:30,772 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:57:31,250 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:31,381 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:31,490 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:57:31,669 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:31,782 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:31,917 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:57:32,756 - INFO - Opened https://jboffice1.com/page/manager/dashboard.jsp with user jbdavith
+2025-05-25 12:57:32,826 - INFO - Entered username for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:32,954 - INFO - Entered password for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:33,134 - INFO - Clicked login button for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:33,426 - INFO - Opened https://jwoffice1.com/page/manager/dashboard.jsp with user jwdvit
+2025-05-25 12:57:33,499 - INFO - Entered username for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:33,604 - INFO - Entered password for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:33,730 - INFO - Clicked login button for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:33,955 - INFO - Extracted data from https://jboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:57:34,940 - INFO - Opened https://kvoffice1.com/page/manager/dashboard.jsp with user kvtzy1
+2025-05-25 12:57:35,012 - INFO - Entered username for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:35,118 - INFO - Entered password for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:35,274 - INFO - Clicked login button for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:35,279 - WARNING - CSS selector failed for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:57:35,614 - INFO - Currency options for https://jwoffice1.com/page/manager/dashboard.jsp: ['INR', 'BDT', 'PKR']
+2025-05-25 12:57:35,718 - INFO - Selected currency: BDT for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:35,794 - INFO - Extracted data from https://jwoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:57:36,111 - INFO - Extracted data from https://kvoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:57:36,225 - INFO - Closed browser for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:36,225 - INFO - ====== WebDriver manager ======
+2025-05-25 12:57:38,392 - INFO - Closed browser for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:38,392 - INFO - ====== WebDriver manager ======
+2025-05-25 12:57:38,729 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:38,862 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:39,006 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:57:39,343 - INFO - Closed browser for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:57:39,344 - INFO - ====== WebDriver manager ======
+2025-05-25 12:57:40,690 - INFO - Opened https://mpback1.com/page/manager/login.jsp with user mpvinai
+2025-05-25 12:57:40,747 - INFO - Entered username for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:57:40,813 - INFO - Entered password for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:57:40,908 - INFO - Clicked login button for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:57:41,834 - INFO - Currency options for https://mpback1.com/page/manager/login.jsp: ['INR', 'BDT', 'PKR', 'NPR']
+2025-05-25 12:57:41,910 - INFO - Selected currency: BDT for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:57:41,947 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:41,967 - INFO - Extracted data from https://mpback1.com/page/manager/login.jsp: B=, C=
+2025-05-25 12:57:42,056 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:42,181 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:57:44,337 - INFO - Opened https://sboffice1.com/page/manager/dashboard.jsp with user sbmon03
+2025-05-25 12:57:44,431 - INFO - Entered username for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:44,555 - INFO - Entered password for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:44,722 - INFO - Clicked login button for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:46,034 - WARNING - CSS selector failed for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:46,279 - INFO - Extracted data from https://sboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:57:48,568 - INFO - Closed browser for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:48,569 - INFO - ====== WebDriver manager ======
+2025-05-25 12:57:48,799 - INFO - Closed browser for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:52,255 - WARNING - CSS selector failed for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:57:52,356 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:52,480 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:52,611 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:57:53,887 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:54,019 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:57:54,144 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:57:54,541 - INFO - Closed browser for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:57:54,574 - INFO - Opened https://sbajioffice1.com/page/manager/dashboard.jsp with user slbmon02
+2025-05-25 12:57:54,619 - INFO - Entered username for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:54,707 - INFO - Entered password for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:54,811 - INFO - Clicked login button for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:57:55,937 - INFO - Opened https://marvelback.com/page/manager/dashboard.jsp with user vprmon01
+2025-05-25 12:57:56,005 - INFO - Entered username for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:57:56,081 - INFO - Entered password for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:57:56,215 - INFO - Clicked login button for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:57:56,908 - INFO - Extracted data from https://sbajioffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:57:57,185 - INFO - Currency options for https://marvelback.com/page/manager/dashboard.jsp: ['VND', 'INR', 'BDT', 'PHP', 'NPR', 'PKR']
+2025-05-25 12:57:57,276 - INFO - Selected currency: BDT for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:57:57,353 - INFO - Extracted data from https://marvelback.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:57:59,202 - INFO - Closed browser for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:58:07,547 - WARNING - CSS selector failed for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:58:09,747 - INFO - Closed browser for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:58:15,439 - INFO - Data written to Google Sheet: [['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', '']]
+2025-05-25 12:58:45,455 - INFO - ====== WebDriver manager ======
+2025-05-25 12:58:45,455 - INFO - ====== WebDriver manager ======
+2025-05-25 12:58:45,455 - INFO - ====== WebDriver manager ======
+2025-05-25 12:58:45,456 - INFO - ====== WebDriver manager ======
+2025-05-25 12:58:48,915 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:58:49,047 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:58:49,178 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:58:49,262 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:58:49,405 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:58:49,535 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:58:49,630 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:58:49,769 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:58:49,897 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:58:50,276 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:58:50,411 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:58:50,539 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:58:51,360 - INFO - Opened https://dpoffice1.com/page/manager/dashboard.jsp with user dpvinai
+2025-05-25 12:58:51,461 - INFO - Entered username for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:58:51,577 - INFO - Entered password for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:58:51,743 - INFO - Clicked login button for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:58:52,109 - INFO - Opened https://bjdoffice1.com/page/manager/dashboard.jsp with user bjdmon02
+2025-05-25 12:58:52,143 - INFO - Opened https://hboffice1.com/page/manager/dashboard.jsp with user hbmon04
+2025-05-25 12:58:52,241 - INFO - Entered username for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:58:52,261 - INFO - Entered username for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:58:52,369 - INFO - Entered password for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:58:52,387 - INFO - Entered password for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:58:52,525 - INFO - Clicked login button for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:58:52,546 - INFO - Clicked login button for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:58:53,759 - INFO - Opened https://www.jeetfun.com/page/manager/login.jsp with user cxdavith
+2025-05-25 12:58:53,824 - INFO - Entered username for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:58:53,905 - INFO - Extracted data from https://bjdoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:58:53,919 - INFO - Entered password for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:58:53,974 - INFO - Extracted data from https://dpoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:58:54,052 - INFO - Clicked login button for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:58:54,499 - INFO - Extracted data from https://hboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:58:55,851 - INFO - Currency options for https://www.jeetfun.com/page/manager/login.jsp: ['INR', 'BDT', 'PKR', 'USD', 'NPR', 'LKR', 'AED']
+2025-05-25 12:58:55,894 - INFO - Selected currency: BDT for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:58:55,924 - INFO - Extracted data from https://www.jeetfun.com/page/manager/login.jsp: B=, C=
+2025-05-25 12:58:56,168 - INFO - Closed browser for https://bjdoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:58:56,169 - INFO - ====== WebDriver manager ======
+2025-05-25 12:58:56,214 - INFO - Closed browser for https://dpoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:58:56,214 - INFO - ====== WebDriver manager ======
+2025-05-25 12:58:56,691 - INFO - Closed browser for https://hboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:58:56,691 - INFO - ====== WebDriver manager ======
+2025-05-25 12:58:58,889 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:58:58,996 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:58:59,103 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:58:59,423 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:58:59,555 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:58:59,687 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:59:01,005 - INFO - Opened https://jboffice1.com/page/manager/dashboard.jsp with user jbdavith
+2025-05-25 12:59:01,096 - INFO - Entered username for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:01,191 - INFO - Entered password for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:01,310 - INFO - Clicked login button for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:01,554 - INFO - Opened https://jwoffice1.com/page/manager/dashboard.jsp with user jwdvit
+2025-05-25 12:59:01,624 - INFO - Entered username for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:01,741 - INFO - Entered password for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:01,884 - INFO - Clicked login button for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:02,138 - INFO - Extracted data from https://jboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:59:02,909 - INFO - Currency options for https://jwoffice1.com/page/manager/dashboard.jsp: ['INR', 'BDT', 'PKR']
+2025-05-25 12:59:03,008 - INFO - Selected currency: BDT for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:03,087 - INFO - Extracted data from https://jwoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:59:03,688 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:59:04,490 - INFO - Closed browser for https://jboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:04,491 - INFO - ====== WebDriver manager ======
+2025-05-25 12:59:04,827 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:59:05,362 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:59:06,168 - WARNING - CSS selector failed for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:59:07,515 - INFO - Opened https://kvoffice1.com/page/manager/dashboard.jsp with user kvtzy1
+2025-05-25 12:59:07,573 - INFO - Entered username for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:07,595 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:59:07,639 - INFO - Entered password for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:07,725 - INFO - Clicked login button for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:07,729 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:59:07,855 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:59:08,442 - INFO - Extracted data from https://kvoffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:59:08,575 - INFO - Closed browser for https://www.jeetfun.com/page/manager/login.jsp
+2025-05-25 12:59:08,575 - INFO - ====== WebDriver manager ======
+2025-05-25 12:59:09,600 - INFO - Opened https://mpback1.com/page/manager/login.jsp with user mpvinai
+2025-05-25 12:59:09,657 - INFO - Entered username for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:59:09,733 - INFO - Entered password for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:59:09,836 - INFO - Clicked login button for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:59:10,649 - INFO - Closed browser for https://kvoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:10,650 - INFO - ====== WebDriver manager ======
+2025-05-25 12:59:11,269 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:59:11,553 - INFO - Currency options for https://mpback1.com/page/manager/login.jsp: ['INR', 'BDT', 'PKR', 'NPR']
+2025-05-25 12:59:11,645 - INFO - Selected currency: BDT for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:59:11,715 - INFO - Extracted data from https://mpback1.com/page/manager/login.jsp: B=, C=
+2025-05-25 12:59:12,934 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:59:13,355 - WARNING - CSS selector failed for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:13,698 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:59:13,913 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:59:14,093 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:59:14,155 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:59:15,647 - INFO - Closed browser for https://jwoffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:15,647 - INFO - ====== WebDriver manager ======
+2025-05-25 12:59:16,066 - INFO - Opened https://sboffice1.com/page/manager/dashboard.jsp with user sbmon03
+2025-05-25 12:59:16,135 - INFO - Entered username for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:16,225 - INFO - Entered password for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:16,347 - INFO - Clicked login button for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:16,660 - INFO - Opened https://marvelback.com/page/manager/dashboard.jsp with user vprmon01
+2025-05-25 12:59:16,730 - INFO - Entered username for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:59:16,823 - INFO - Entered password for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:59:16,952 - INFO - Clicked login button for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:59:18,257 - INFO - Currency options for https://marvelback.com/page/manager/dashboard.jsp: ['VND', 'INR', 'BDT', 'PHP', 'NPR', 'PKR']
+2025-05-25 12:59:18,338 - INFO - Selected currency: BDT for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:59:18,394 - INFO - Extracted data from https://marvelback.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:59:18,991 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:59:18,996 - INFO - Extracted data from https://sboffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:59:19,141 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 12:59:19,302 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 12:59:21,203 - INFO - Opened https://sbajioffice1.com/page/manager/dashboard.jsp with user slbmon02
+2025-05-25 12:59:21,248 - INFO - Entered username for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:21,281 - INFO - Closed browser for https://sboffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:21,305 - INFO - Entered password for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:21,384 - INFO - Clicked login button for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:21,937 - WARNING - CSS selector failed for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:59:22,225 - INFO - Extracted data from https://sbajioffice1.com/page/manager/dashboard.jsp: B=, C=
+2025-05-25 12:59:24,408 - INFO - Closed browser for https://sbajioffice1.com/page/manager/dashboard.jsp
+2025-05-25 12:59:25,788 - INFO - Closed browser for https://mpback1.com/page/manager/login.jsp
+2025-05-25 12:59:28,601 - WARNING - CSS selector failed for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:59:32,296 - INFO - Closed browser for https://marvelback.com/page/manager/dashboard.jsp
+2025-05-25 12:59:32,718 - INFO - Data written to Google Sheet: [['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', ''], ['', '']]
+2025-05-25 13:00:02,736 - INFO - ====== WebDriver manager ======
+2025-05-25 13:00:02,736 - INFO - ====== WebDriver manager ======
+2025-05-25 13:00:02,736 - INFO - ====== WebDriver manager ======
+2025-05-25 13:00:02,737 - INFO - ====== WebDriver manager ======

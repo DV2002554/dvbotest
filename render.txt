@@ -1,0 +1,17 @@
+services:
+  - type: backgroundWorker
+    name: python-scraper-worker
+    env: python
+    # This section tells Render to install Google Chrome in the container
+    # This is necessary for Selenium to work
+    runtime: 'docker'
+    dockerfilePath: ./Dockerfile
+    # Plan: Free or Starter
+    plan: free
+    # Environment variables can be set in the Render dashboard
+    # IMPORTANT: You will add your GCP_SA_KEY here later
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.4
+      - key: GCP_SA_KEY
+        sync: false # Set this in the Render dashboard

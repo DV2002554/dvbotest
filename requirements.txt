@@ -1,0 +1,5 @@
+gspread
+oauth2client
+schedule
+selenium
+webdriver-manager
