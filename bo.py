@@ -60,12 +60,16 @@ def process_website(site):
     try:
         options = Options()
         # --- KEY CHANGES FOR RENDER ---
-        options.add_argument("--headless")  # Must be enabled for cloud environments
+        options.add_argument("--headless")
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
         options.add_argument("--disable-gpu")
         options.add_argument("--window-size=1920,1080")
-        # -----------------------------
+        
+        # *** THIS IS THE FIX ***
+        # Specify the path to the Chrome binary in the Docker container
+        options.binary_location = "/usr/bin/google-chrome"
+        # ***********************
         
         driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
         logging.info(f"Thread for {site['url']}: Chrome browser initialized")
@@ -154,7 +158,7 @@ def scrape_and_update():
     logging.info("Starting new scrape cycle...")
 
     data_map = {site["url"]: ["", ""] for site in websites}
-    with ThreadPoolExecutor(max_workers=4) as executor: # Increased workers for faster execution
+    with ThreadPoolExecutor(max_workers=4) as executor: 
         future_to_site = {executor.submit(process_website, site): site for site in websites}
         for future in as_completed(future_to_site):
             site = future_to_site[future]
@@ -182,7 +186,7 @@ def scrape_and_update():
 
 # --- Main execution loop ---
 if __name__ == "__main__":
-    scrape_and_update() # Run once immediately on start
+    scrape_and_update() 
     schedule.every(1).minutes.do(scrape_and_update)
     logging.info("Scheduler started. Will run every 1 minute.")
     while True:
